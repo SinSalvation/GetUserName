@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GetUserName">
+    <output-path>$PROJECT_DIR$/out/artifacts/GetUserName</output-path>
+    <root id="archive" name="GetUserName.jar">
+      <element id="module-output" name="GetUserName" />
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.9" />
+        <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+        <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.3" />
+        <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.6" />
+      </element>
+    </root>
+  </artifact>
+</component>
