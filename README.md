@@ -4,3 +4,5 @@
 直接打包就能用 使用方式java -cp GetUserName.jar org.bored.Main 0224xxxxxxx
 
 也可以直接调用sendPost("0224xxxxxxx")
+
+使用前请修改代码里的帐号密码
