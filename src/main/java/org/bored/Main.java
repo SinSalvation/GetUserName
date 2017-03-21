@@ -26,8 +26,8 @@ public class Main {
         HttpClient httpClient = new DefaultHttpClient(new ThreadSafeClientConnManager());
         HttpPost httpPost = new HttpPost("http://202.113.244.44:9012/loginAction.do");
         List<NameValuePair> params = new ArrayList<NameValuePair>();
-        params.add(new BasicNameValuePair("zjh", "02240130209"));
-        params.add(new BasicNameValuePair("mm", "13174452"));
+        params.add(new BasicNameValuePair("zjh", "xxxxxxxx"));
+        params.add(new BasicNameValuePair("mm", "xxxxxxxx"));
         UrlEncodedFormEntity uefEntity;
         String username = "";
         try {
